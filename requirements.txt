@@ -1,0 +1,14 @@
+jupyterlab
+pandas
+scikit-learn
+mkdocs
+mkdocs-material
+mkdocs-jupyter
+
+pandas
+numpy
+seaborn
+scikit-learn
+lightgbm
+shap
+matplotlib
